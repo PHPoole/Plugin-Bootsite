@@ -9,4 +9,4 @@ Installation
 Usage
 -----
 
-Just run a new website (```--init```) and see the magic!
+Just run a new website and see the magic!
